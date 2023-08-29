@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+	int a;
+	printf("enter the hexa decimal value : ");
+	scanf("%x",&a);
+	printf("the decimal value of given number is : %d",a);
+}
